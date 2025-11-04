@@ -27,7 +27,15 @@ All groups submit the full repository weekly for continuous progress and feedbac
 
 ## 🧩 Templates
 ### 📝 Test Plan (tests/test-plan.md)
+project: **Book store app**
+Team Name: **Raid**
+Testing Period :**November 5 ,2025 - November18,2025**
+
+
 - Objective and Scope
+- 
+
+
 - In-Scope Features (map to FR codes)
 - Out-of-Scope
 - Environments (browsers/devices, throttling)
@@ -86,3 +94,4 @@ All groups submit the full repository weekly for continuous progress and feedbac
 - 2–3 top defects with evidence and impact
 - Include a11y/perf highlights (metrics, tools)
 - Recommendations aligned to risk
+
