@@ -137,7 +137,7 @@ This section confirms that the Test Plan has been reviewed and approved, authori
 
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
-| Test Manager | Dennis | (Must Sign) | (Target: Nov 5, 2025) |
+| Test Manager | Dennis | (Dk) | (Target: Nov 5, 2025) |
 | Risk Analyst | Cindy | (Must Sign) | (Target: Nov 5, 2025) |
 | Test Executer | Deborah | (Must Sign) | (Target: Nov 5, 2025) |
 | Project Lead/Stakeholder | (To be confirmed) | (Must Sign) | (Target: Nov 5, 2025) |
@@ -208,5 +208,6 @@ This section confirms that the Test Plan has been reviewed and approved, authori
 - 2–3 top defects with evidence and impact
 - Include a11y/perf highlights (metrics, tools)
 - Recommendations aligned to risk
+
 
 
