@@ -194,5 +194,7 @@ P3 (Stretch)
 - Admin dashboards, inventory low-stock alerts
 - Q&A with safe markdown
 
+<img width="1366" height="639" alt="Screenshot 2025-11-05 153957" src="https://github.com/user-attachments/assets/dad3b82b-9cac-4a66-a157-267892f7ecf7" />
+
 
 
